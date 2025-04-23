@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ProductCrudSpringDataJpaRestApplication {
 
 	public static void main(String[] args) {
+		System.out.println("Day 1 changes");
 		SpringApplication.run(ProductCrudSpringDataJpaRestApplication.class, args);
 	}
 
